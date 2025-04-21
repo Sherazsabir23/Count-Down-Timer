@@ -26,3 +26,8 @@ It lets you set a target date and time, and then shows the remaining time in **d
 1. Clone the repo:
    ```bash
    git clone https://github.com/Sherazsabir23/Count-Down-Timer.git
+
+   ## 📸 Preview
+
+![Countdown Timer Preview](https://github.com/Sherazsabir23/Count-Down-Timer/raw/main/screenshot.png)
+

@@ -27,7 +27,15 @@ It lets you set a target date and time, and then shows the remaining time in **d
    ```bash
    git clone https://github.com/Sherazsabir23/Count-Down-Timer.git
 
-   ## 📸 Preview
+---
 
-![Countdown Timer Preview](https://github.com/Sherazsabir23/Count-Down-Timer/raw/main/screenshot.png)
+## 📄 License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this project for personal or commercial use.  
+Just make sure to give credit to the original author.
+
+> © 2025 Sheraz Sabir
+
 
